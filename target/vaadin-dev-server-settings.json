@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/fedya/IdeaProjects/testfortelephon/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/fedya/IdeaProjects/testfortelephon/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/fedya/IdeaProjects/testfortelephon/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\fedya\\IdeaProjects\\testfortelephon\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\fedya\\IdeaProjects\\testfortelephon\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/fedya/IdeaProjects/testfortelephon/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/fedya/IdeaProjects/testfortelephon/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/fedya/IdeaProjects/testfortelephon/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\fedya\\IdeaProjects\\testfortelephon\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
